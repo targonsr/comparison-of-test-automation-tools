@@ -71,12 +71,10 @@ build/
 gradle-app.setting
 
 ### Custom
-build.gradle
 gradle
 gradlew
 gradlew.bat
 settings.gradle
 
 build
-build.sbt
 project
